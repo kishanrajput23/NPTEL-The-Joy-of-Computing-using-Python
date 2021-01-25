@@ -1,6 +1,6 @@
 # NPTEL-The-Joy-of-Computing-using-Python
 
-**The Joy of Computing using Python**
+**THE JOY OF COMPUTING USING PYTHON**
 
 <img src="https://cdn-learn.adafruit.com/assets/assets/000/049/445/medium800/circuitpython_python-logo-master-flat.png?1513729728" alt="">
 
@@ -20,7 +20,7 @@ A fun filled whirlwind tour of 30 hrs, covering everything you need to know to f
 
 **COURSE LEVEL :** Undergraduate/Postgraduate
 
-**COURSE LAYOUT**
+**COURSE LAYOUT :**
 - Motivation for Computing
 - Welcome to Programming!!
 - Variables and Expressions : Design your own calculator
