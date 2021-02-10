@@ -73,7 +73,7 @@ If you want to say Hi to both the users, print their names and welcome them to y
 
 **10. Which of the following is not a valid variable name?**
 
- - var-1
+ - var-1  ✅
  - var1
  - Var1
  - var 1 ✅
