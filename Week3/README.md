@@ -1,4 +1,4 @@
-# Week 2 Quiz 💡
+# Week 3 Quiz 💡
 
 **1. What is the output of the following code?**
 
