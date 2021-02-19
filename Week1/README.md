@@ -26,9 +26,9 @@
 
 **5. What is the action of next-costume command on sprite in Scratch?**
  - Changes color of sprite
- - Changes style of sprite 
+ - Changes style of sprite  ✅ 
  - Moves sprite to different position
- - Shows animation of sprite  ✅
+ - Shows animation of sprite  
 
 **6. What is the output of the following**	
 
