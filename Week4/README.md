@@ -70,9 +70,9 @@ non-leap year is**
 - All of the above
 
 **9. In “Guess the Movie Name” game, at-most how many guesses do you need to make for a five lettered movie name with all distinct letters in it?**
-- 53,130
+- 53,130  ✅
 - 6,37,5600
-- 120  ✅
+- 120  
 - 5
 
 
