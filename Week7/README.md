@@ -28,7 +28,7 @@ ladders = { 3: 20, 6: 14, 11: 28, 15: 34, 17: 74, 22: 37, 38: 59, 49: 67, 57: 76
 - 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
 - 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
 
-**5. Which of the following code snippet will draw a star?
+**5. Which of the following code snippet will draw a star?**
 
 - <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q5a.png" alt="">
 
