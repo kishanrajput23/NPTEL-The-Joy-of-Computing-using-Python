@@ -30,35 +30,35 @@ ladders = { 3: 20, 6: 14, 11: 28, 15: 34, 17: 74, 22: 37, 38: 59, 49: 67, 57: 76
 
 **5. Which of the following code snippet will draw a star?
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q5a.png" alt="">
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q5a.png" alt="">
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q5b.png" alt="">  ✅
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q5b.png" alt="">  ✅
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q5c.png" alt="">
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q5c.png" alt="">
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q5d.png" alt="">
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q5d.png" alt="">
 
 **6. Which of the following code snippet will draw a Hexagon?**
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q6a.png" alt="">
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q6a.png" alt="">
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q6b.png" alt="">
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q6b.png" alt="">
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q6c.png" alt="">
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q6c.png" alt="">
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q6d.png" alt="">  ✅
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q6d.png" alt="">  ✅
 
 **7. What is the output of the following code?**
 
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q7.png" alt="">
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q7a.png" alt="">  ✅
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q7a.png" alt="">  ✅
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q7b.png" alt="">
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q7b.png" alt="">
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q7c.png" alt="">
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q7c.png" alt="">
 
-<img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q7d.png" alt="">
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W7Q7d.png" alt="">
 
 **8. In a file with extension csv what does csv mean?**
 - carry separated value
