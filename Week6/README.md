@@ -101,5 +101,5 @@
 - 1
 
 **10. A program can be written using recursive function only if it can be recursively defined.**
-- TRUE  ✅
-- FALSE
+- TRUE  
+- FALSE  ✅
