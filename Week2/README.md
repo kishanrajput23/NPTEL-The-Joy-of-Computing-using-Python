@@ -6,7 +6,7 @@
  - .python
  - .py ✅
 
-**2. You are calculating the simple interest using a python program. How do you get the interest as an input from the user?**
+**2. You are calculating the simple interest using a python program. How do you get the interest as an input from the user? **
  - r=float(input(”Enter the interest rate”)) ✅
  - r=int(input(”Enter the interest rate”))
  - r=input(”Enter the interest rate”)
