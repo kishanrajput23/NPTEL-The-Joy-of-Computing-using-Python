@@ -6,7 +6,7 @@
  - .python
  - .py ✅
 
-**2. You are calculating the simple interest using a python program. How do you get the interest as an input from the user? **
+**2. You are calculating the simple interest using a python program. How do you get the interest as an input from the user?**
  - r=float(input(”Enter the interest rate”)) ✅
  - r=int(input(”Enter the interest rate”))
  - r=input(”Enter the interest rate”)
@@ -44,7 +44,7 @@ If you want to say Hi to both the users, print their names and welcome them to y
  - An error will be generated
  - 10 10 ✅
  
-**7. Given this code snippet, determine its output?**
+**7. Given this code snippet,determine its output?**
 
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W2Q7.png" alt="">		
 
