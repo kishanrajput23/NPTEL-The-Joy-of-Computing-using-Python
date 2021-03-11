@@ -1,7 +1,7 @@
 # Week 6 Quiz 💡
 
 
-**1. In Caesar cipher, the mediator needs to make maximum of how many trails to break the code?**
+**1. In Caesar cipher,the mediator needs to make maximum of how many trails to break the code?**
 - 1
 - 26  ✅
 - no trail needed
