@@ -1,6 +1,6 @@
 # Week 3 Quiz 💡
 
-**1. What is the output of the following code? **
+**1. What is the output of the following code?**
 
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W2Q1.png" alt="">  
 
@@ -24,7 +24,7 @@
  - Add
  - InsertAt
 
-**4. __________ method returns the number of occurrences of an element in a list.**
+**4. ___________ method returns the number of occurrences of an element in a list.**
  - NumberOf
  - Total
  - Count  ✅
