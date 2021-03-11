@@ -31,7 +31,7 @@
 
 
 **5. The minimum number of people required to guarantee that at least two people will have their birthdays falling on the same day of a
-non-leap year is**
+non-leap year is..**
 - 365
 - 364  
 - 366  ✅
