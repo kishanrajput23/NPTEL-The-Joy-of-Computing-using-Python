@@ -68,7 +68,7 @@
 - NLTK: Normal Language Toolkit
 - NLTK: Natural Lingual Toolkit
 
-**10. Sentiment analysis involves working with whether __________**
+**10. Sentiment analysis involves working with whether ___________**
 - a piece of information is biased or unbiased
 - a piece of information is useful or not
 - a piece of information is true or false
