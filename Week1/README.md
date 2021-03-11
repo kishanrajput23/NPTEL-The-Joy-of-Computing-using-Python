@@ -1,6 +1,6 @@
 # Week 1 Quiz 💡
 
-**1. A function calling itself with a smaller instance is called as_______________**
+**1. A function calling itself with a smaller instance is called as________________**
  - Recursion ✅
  - Self-calling function
  - Iteration
