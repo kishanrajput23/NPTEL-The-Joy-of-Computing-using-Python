@@ -6,7 +6,7 @@
 - Better understanding of the code
 - All of the above  ✅
 
-**2. In Snakes and Ladders game the least number of times a player has to roll a die with the following ladder positions is ____________
+**2. In Snakes and Ladders game the least number of times a player has to roll a die with the following ladder positions is _____________
 ladders = { 3: 20, 6: 14, 11: 28, 15: 34, 17: 74, 22: 37, 38: 59, 49: 67, 57: 76, 61: 78, 73: 86, 81: 98, 88: 91 }**
 - 4
 - 5  ✅
