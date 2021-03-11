@@ -1,7 +1,7 @@
 # Week 5 Quiz 💡
 
 
-**1. Let marks scored be a dictionary of the items given below:**
+**1. Let marks scored be a dictionary of the items given below:-**
 
 marks_scored = { }\
 marks_scored[’maths’]= 80\
