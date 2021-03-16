@@ -49,8 +49,8 @@
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W888Q777.png" alt="">
 
 - checks whether the two given texts are same
-- searches for text2 in text1  ✅
-- finds all the occurrences of text2 in text1
+- searches for text2 in text1  
+- finds all the occurrences of text2 in text1  ✅
 - none of the above
 
 **8. Which of the following code will convert the uppercase letters of the given string into lower case and prints the converted string?**
