@@ -75,6 +75,6 @@
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W10Q9.d.png" alt="">
 
 **10. Image compression is always a lossy compression.**
-- True  ✅
-- False
+- True  
+- False  ✅
  
