@@ -1,6 +1,3 @@
-
-# 1st Exam Solution 
-```python
 al = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"
 al = al.split(" ")
 
@@ -49,4 +46,3 @@ if (check_cifar(wr, ci)):
     print("Yes", end="")
 else:
     print("No", end="")
-```
