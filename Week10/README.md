@@ -35,8 +35,8 @@
 
 **5. In python, the default value of start and end index of list slicing are which of the following options?**
 - 1, length of the list
-- 0, length of the list
-- 0, length of the list -1  ✅
+- 0, length of the list  ✅
+- 0, length of the list -1  
 - 1, length of the list -1
 
 **6. Which of the following is not a functionality of string in python?**
