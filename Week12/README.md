@@ -17,8 +17,8 @@
 - high ranked node is the one with maximum hyperlink  ✅
 
 **4. In page ranking algorithm**
-- we always begin ranking from the first node.  ✅
-- we randomly move from one node to another
+- we always begin ranking from the first node.  
+- we randomly move from one node to another  ✅
 - we stop at the sink node
 - All the above statements are true
 
@@ -49,8 +49,8 @@
 
 **8. What is the next step in page ranking algorithm, if the current node in the walk is a sink ?**
 - the algorithm stops
-- the next node is selected randomly from the given set of nodes present in the graph  ✅
-- the next node is selected randomly from the list of neighbours of the current node
+- the next node is selected randomly from the given set of nodes present in the graph  
+- the next node is selected randomly from the list of neighbours of the current node  ✅
 - the algorithm restarts from the current node
 
 **9. Which of the following is a directed network?**
