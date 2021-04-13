@@ -55,11 +55,11 @@
 
 **8. Which of the following code will convert the uppercase letters of the given string into lower case and prints the converted string?**
 
-- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W8Q8.a.png" alt="">
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W8Q8.a.png" alt="">  ✅
 
 - <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc21_cs32/cs32W8Q8.b.png" alt="">
 
-- both A and B  ✅
+- both A and B  
 - none
 
 **9. Which of the following is the platform for building Python programs to work with sentiment analysis of human language data?**
