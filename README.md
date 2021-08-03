@@ -2,7 +2,7 @@
 
 ## THE JOY OF COMPUTING USING PYTHON
 
-<img src="https://cdn-learn.adafruit.com/assets/assets/000/049/445/medium800/circuitpython_python-logo-master-flat.png?1513729728" alt="">
+<img src="https://www.monterail.com/hubfs/blog/featured/xPython,P20task,P20automation,P20featured,P20image.jpg.pagespeed.ic.jbYjdoB-fx.jpg" alt="">
 
 **Here is the course link : [CLICK HERE](https://onlinecourses.nptel.ac.in/noc21_cs75/preview)**
 
