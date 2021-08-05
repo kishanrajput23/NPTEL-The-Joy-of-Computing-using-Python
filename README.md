@@ -4,23 +4,23 @@
 
 <img src="https://www.monterail.com/hubfs/blog/featured/xPython,P20task,P20automation,P20featured,P20image.jpg.pagespeed.ic.jbYjdoB-fx.jpg" alt="">
 
-**Here is the course link : [CLICK HERE](https://onlinecourses.nptel.ac.in/noc21_cs75/preview)**
+### Here is the course link : [CLICK HERE](https://onlinecourses.nptel.ac.in/noc21_cs75/preview)
 
 A fun filled whirlwind tour of 30 hrs, covering everything you need to know to fall in love with the most sought after skill of the 21st century. The course brings programming to your desk with anecdotes, analogies and illustrious examples. Turning abstractions to insights and engineering to art, the course focuses primarily to inspire the learner's mind to think logically and arrive at a solution programmatically. As part of the course, you will be learning how to practice and culture the art of programming with Python as a language. At the end of the course, we introduce some of the current advances in computing to motivate the enthusiastic learner to pursue further directions.
 
-- **[Introduction The Joy of Computing using Python](https://youtu.be/vgoffYa7_7E)**
+### [Introduction The Joy of Computing using Python](https://youtu.be/vgoffYa7_7E)
 
-**INTENDED AUDIENCE	:**  Any interested audience
+**📌 INTENDED AUDIENCE	:**  Any interested audience
 
-**PREREQUISITES		:**  10th standard/high school
+**📌 PREREQUISITES		:**  10th standard/high school
 
-**INDUSTRY SUPPORT	:**  Every software company is aware of the potential of a first course in computer science. Especially of a first course in computing, done right.
+**📌 INDUSTRY SUPPORT	:**  Every software company is aware of the potential of a first course in computer science. Especially of a first course in computing, done right.
 
-**COURSE TYPE :** Elective
+**📌 COURSE TYPE :** Elective
 
-**COURSE LEVEL :** Undergraduate/Postgraduate
+**📌 COURSE LEVEL :** Undergraduate/Postgraduate
 
-**COURSE LAYOUT :**
+**📌 COURSE LAYOUT :**
 - Motivation for Computing
 - Welcome to Programming!!
 - Variables and Expressions : Design your own calculator
