@@ -8,7 +8,9 @@ for i in lst1:
   sum += i
   lst2.append(sum)
   
-str1 = ' '.join([str(elem) for elem in lst2])
+print(*lst2,end="")
   
-print(str1, end="")
+#str1 = ' '.join([str(elem) for elem in lst2])
+  
+#print(str1, end="")
   
