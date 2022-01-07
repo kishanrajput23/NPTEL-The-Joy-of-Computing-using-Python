@@ -2,7 +2,7 @@
 
 ## THE JOY OF COMPUTING USING PYTHON
 
-<img src="https://www.monterail.com/hubfs/blog/featured/xPython,P20task,P20automation,P20featured,P20image.jpg.pagespeed.ic.jbYjdoB-fx.jpg" alt="">
+![NPTEL-The-Joy-of-Computing-using-Python](https://socialify.git.ci/kishanrajput23/NPTEL-The-Joy-of-Computing-using-Python/image?description=1&font=Bitter&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark)
 
 ### Here is the course link : [CLICK HERE](https://onlinecourses.nptel.ac.in/noc21_cs75/preview)
 
