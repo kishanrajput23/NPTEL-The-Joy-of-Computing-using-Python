@@ -60,10 +60,10 @@
 
 - number is less than 0
 - number is greater than 0
-- number is zero  ✅
-- Error
+- number is zero  
+- Error  ✅
 
-**8. What will be the output of the following code?
+**8. What will be the output of the following code?**
 
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs31/JOC-W2-Q8.PNG" alt="">	
   
