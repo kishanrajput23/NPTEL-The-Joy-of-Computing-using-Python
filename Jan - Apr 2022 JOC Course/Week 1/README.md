@@ -42,19 +42,19 @@
 
 - <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs31/JOC_Q5(revised).a.PNG" alt="">
 
-- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs31/JOC_Q5(revised).b.PNG" alt="">
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs31/JOC_Q5(revised).b.PNG" alt="">  ✅
 
 - <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs31/JOC_Q5(revised).c.PNG" alt="">
 
-- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs31/JOC_Q5(revised).d.PNG" alt="">  ✅
+- <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs31/JOC_Q5(revised).d.PNG" alt="">  
  
 **6. Imagine a cricket ball as our sprite, the ball will move in**
 
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs31/JOC-W1.Q6.PNG" alt="">
 
 - a straight line.
-- Circular motion.  ✅
-- Curve path.
+- Circular motion.  
+- Curve path.  ✅
 - Up and Down.
 
 **7. Imagine sprite to be a scooter. How many times scooter will move forward?**
