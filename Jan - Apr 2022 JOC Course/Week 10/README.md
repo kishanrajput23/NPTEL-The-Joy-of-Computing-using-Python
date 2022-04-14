@@ -1,3 +1,5 @@
+# 📌Week 10 Quiz
+
 **1. What is the output of the following code?**
 
 <img src="https://storage.googleapis.com/swayam-node1-production.appspot.com/assets/img/noc22_cs31/JOC_W10_Q1.PNG" alt="">
