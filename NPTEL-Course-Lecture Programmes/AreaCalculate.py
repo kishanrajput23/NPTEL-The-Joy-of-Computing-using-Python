@@ -33,6 +33,7 @@ while(count<=10000):
     elif r==238:
         count_guj+=1
         count+=1
+        
     else:
         count+=1
         
